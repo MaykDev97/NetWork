@@ -1,7 +1,7 @@
-# Portafolio CV
+# My Technology WorkShop
 
-Repositorio del Portafolio CV Personal @MaykDev97.
+Repository of My Technology WorkShop @MaykDev97.
 
 ## Proyestos
 
--[Landing Page de tipo Portafolio-CV](https://maykdev97.github.io/NetWork/)
+-[Landing Page of My Technology WorkShop](https://maykdev97.github.io/NetWork/)
