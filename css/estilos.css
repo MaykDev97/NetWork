@@ -1,3 +1,6 @@
+:root {
+    --first-color: #12AFAF;
+     }
 html {
     font-size: 15px
 }
@@ -251,6 +254,16 @@ body {
 
 .tu-mejor-eleccion ul li {
     min-height: 9rem
+}
+
+.link-ws{
+    text-decoration: none;
+    color: var(--first-color);
+}
+
+section.agencia div.container div.row .link-ws{
+    text-decoration: none;
+    color:white;
 }
 
 .servicios {
