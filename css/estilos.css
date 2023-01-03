@@ -629,7 +629,7 @@ section.agencia div.container div.row .link-ws{
 
     .bienvenido {
         background: url("../images/fondo-encabezado-grande.jpg") no-repeat center top;
-        background-size: cover
+        background-size: cover;
     }
 
     .servicios {
